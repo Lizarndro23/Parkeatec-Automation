@@ -1,6 +1,6 @@
 package co.com.AutomatizacionParkeatecPage.tasks;
 
-import co.com.AutomatizacionParkeatecPage.userinterface.InicioParkeatec;
+import co.com.AutomatizacionParkeatecPage.userinterfaces.InicioParkeatec;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;

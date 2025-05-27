@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cacec2f-773e-4603-b644-70582b6fbe63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/abilities/abilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/abilities/abilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/interactions/interactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/interactions/interactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/tasks/AbrirPagina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/tasks/AbrirPagina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/userinterface/InicioParkeatec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/AutomatizacionParkeatecPage/userinterfaces/InicioParkeatec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/diego.garzon/Music/Parkeatec-Automation/Parkeatec-Automation"
   }
 }]]></component>
   <component name="RecentsManager">
